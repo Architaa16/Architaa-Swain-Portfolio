@@ -20,9 +20,6 @@ Here are some of my notable projects:
 ### [Vaccines Platform](https://github.com/Architaa16/Vaccines)
 A platform that provides insights into vaccine-related adverse reactions based on user inputs. It leverages data analysis models and is built using **HTML**, **CSS**, **JavaScript**, and **Flask**.
 
-### [Cervical Cancer Detection](https://github.com/Architaa16/Cervical-Cancer-Detection)
-This project focuses on using machine learning models to predict the presence of cervical cancer based on medical data. The model is built using **Scikit-learn** and **TensorFlow**.
-
 ### [Trip Around Odisha](https://github.com/Architaa16/Trip-around-Odisha-)
 A travel planning app that helps users explore Odisha's tourist spots with information about routes, places, and attractions. Developed with **HTML**, **CSS**, and **JavaScript**.
 
